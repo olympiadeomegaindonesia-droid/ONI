@@ -1,0 +1,7 @@
+{
+  "name": "Olimpiade Nasional Indonesia",
+  "description": "Platform Resmi Olimpiade Online Nasional Indonesia Terbesar & Terpercaya - Didukung oleh Yayasan Besar Rasa Bagi Bangsa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
